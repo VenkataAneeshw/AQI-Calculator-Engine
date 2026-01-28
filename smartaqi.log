@@ -1,0 +1,81 @@
+2026-01-27 13:24:21 - __main__ - INFO - [data_loader.py:34] - DataLoader initialized with CSV path: data_source
+2026-01-27 13:24:21 - __main__ - INFO - [data_loader.py:80] - === Starting Data Ingestion ===
+2026-01-27 13:24:21 - __main__ - INFO - [data_loader.py:94] - Found 12 CSV files. Starting ingestion...
+2026-01-27 13:24:21 - __main__ - INFO - [data_loader.py:74] - Database tables created/verified
+2026-01-27 13:24:21 - __main__ - INFO - [data_loader.py:103] - Processing: PRSA_Data_Aotizhongxin_20130301-20170228.csv
+2026-01-27 13:24:22 - __main__ - INFO - [data_loader.py:124] - Dropped 3168 rows with missing values
+2026-01-27 13:24:23 - __main__ - INFO - [data_loader.py:161] - Inserted 31896 records from PRSA_Data_Aotizhongxin_20130301-20170228.csv
+2026-01-27 13:24:23 - __main__ - INFO - [data_loader.py:103] - Processing: PRSA_Data_Changping_20130301-20170228.csv
+2026-01-27 13:24:23 - __main__ - INFO - [data_loader.py:124] - Dropped 2236 rows with missing values
+2026-01-27 13:24:23 - __main__ - INFO - [data_loader.py:161] - Inserted 32828 records from PRSA_Data_Changping_20130301-20170228.csv
+2026-01-27 13:24:23 - __main__ - INFO - [data_loader.py:103] - Processing: PRSA_Data_Dingling_20130301-20170228.csv
+2026-01-27 13:24:24 - __main__ - INFO - [data_loader.py:124] - Dropped 3611 rows with missing values
+2026-01-27 13:24:24 - __main__ - INFO - [data_loader.py:161] - Inserted 31453 records from PRSA_Data_Dingling_20130301-20170228.csv
+2026-01-27 13:24:24 - __main__ - INFO - [data_loader.py:103] - Processing: PRSA_Data_Dongsi_20130301-20170228.csv
+2026-01-27 13:24:24 - __main__ - INFO - [data_loader.py:124] - Dropped 4642 rows with missing values
+2026-01-27 13:24:25 - __main__ - INFO - [data_loader.py:161] - Inserted 30422 records from PRSA_Data_Dongsi_20130301-20170228.csv
+2026-01-27 13:24:25 - __main__ - INFO - [data_loader.py:103] - Processing: PRSA_Data_Guanyuan_20130301-20170228.csv
+2026-01-27 13:24:25 - __main__ - INFO - [data_loader.py:124] - Dropped 2716 rows with missing values
+2026-01-27 13:24:26 - __main__ - INFO - [data_loader.py:161] - Inserted 32348 records from PRSA_Data_Guanyuan_20130301-20170228.csv
+2026-01-27 13:24:26 - __main__ - INFO - [data_loader.py:103] - Processing: PRSA_Data_Gucheng_20130301-20170228.csv
+2026-01-27 13:24:26 - __main__ - INFO - [data_loader.py:124] - Dropped 2398 rows with missing values
+2026-01-27 13:24:27 - __main__ - INFO - [data_loader.py:161] - Inserted 32666 records from PRSA_Data_Gucheng_20130301-20170228.csv
+2026-01-27 13:24:27 - __main__ - INFO - [data_loader.py:103] - Processing: PRSA_Data_Huairou_20130301-20170228.csv
+2026-01-27 13:24:27 - __main__ - INFO - [data_loader.py:124] - Dropped 3054 rows with missing values
+2026-01-27 13:24:28 - __main__ - INFO - [data_loader.py:161] - Inserted 32010 records from PRSA_Data_Huairou_20130301-20170228.csv
+2026-01-27 13:24:28 - __main__ - INFO - [data_loader.py:103] - Processing: PRSA_Data_Nongzhanguan_20130301-20170228.csv
+2026-01-27 13:24:28 - __main__ - INFO - [data_loader.py:124] - Dropped 1868 rows with missing values
+2026-01-27 13:24:29 - __main__ - INFO - [data_loader.py:161] - Inserted 33196 records from PRSA_Data_Nongzhanguan_20130301-20170228.csv
+2026-01-27 13:24:29 - __main__ - INFO - [data_loader.py:103] - Processing: PRSA_Data_Shunyi_20130301-20170228.csv
+2026-01-27 13:24:29 - __main__ - INFO - [data_loader.py:124] - Dropped 4433 rows with missing values
+2026-01-27 13:24:30 - __main__ - INFO - [data_loader.py:161] - Inserted 30631 records from PRSA_Data_Shunyi_20130301-20170228.csv
+2026-01-27 13:24:30 - __main__ - INFO - [data_loader.py:103] - Processing: PRSA_Data_Tiantan_20130301-20170228.csv
+2026-01-27 13:24:30 - __main__ - INFO - [data_loader.py:124] - Dropped 2137 rows with missing values
+2026-01-27 13:24:30 - __main__ - INFO - [data_loader.py:161] - Inserted 32927 records from PRSA_Data_Tiantan_20130301-20170228.csv
+2026-01-27 13:24:30 - __main__ - INFO - [data_loader.py:103] - Processing: PRSA_Data_Wanliu_20130301-20170228.csv
+2026-01-27 13:24:30 - __main__ - INFO - [data_loader.py:124] - Dropped 4307 rows with missing values
+2026-01-27 13:24:31 - __main__ - INFO - [data_loader.py:161] - Inserted 30757 records from PRSA_Data_Wanliu_20130301-20170228.csv
+2026-01-27 13:24:31 - __main__ - INFO - [data_loader.py:103] - Processing: PRSA_Data_Wanshouxigong_20130301-20170228.csv
+2026-01-27 13:24:31 - __main__ - INFO - [data_loader.py:124] - Dropped 2218 rows with missing values
+2026-01-27 13:24:32 - __main__ - INFO - [data_loader.py:161] - Inserted 32846 records from PRSA_Data_Wanshouxigong_20130301-20170228.csv
+2026-01-27 13:24:32 - __main__ - INFO - [data_loader.py:178] - === Data Ingestion Complete: 383980 total records inserted ===
+2026-01-27 13:24:32 - __main__ - INFO - [data_loader.py:182] - === Verifying Loaded Data ===
+2026-01-27 13:24:32 - __main__ - INFO - [data_loader.py:191] - Total measurements in database: 383980
+2026-01-27 13:24:32 - __main__ - INFO - [data_loader.py:196] - Total stations registered: 12
+2026-01-27 13:24:32 - __main__ - INFO - [data_loader.py:203] - Sample data:
+2026-01-27 13:24:32 - __main__ - INFO - [data_loader.py:205] -   Station: Aotizhongxin, Time: 2013-03-01 00:00:00, PM2.5: 4.0, NO2: 7.0
+2026-01-27 13:24:32 - __main__ - INFO - [data_loader.py:205] -   Station: Aotizhongxin, Time: 2013-03-01 01:00:00, PM2.5: 8.0, NO2: 7.0
+2026-01-27 13:24:32 - __main__ - INFO - [data_loader.py:205] -   Station: Aotizhongxin, Time: 2013-03-01 02:00:00, PM2.5: 7.0, NO2: 10.0
+2026-01-27 13:24:49 - weights.main_subjective - INFO - [main_subjective.py:33] - SubjectiveWeightManager initialized
+2026-01-27 13:24:49 - weights.main_subjective - INFO - [main_subjective.py:55] - Updating Biological Weights in Database...
+2026-01-27 13:24:49 - weights.main_subjective - INFO - [main_subjective.py:79] - Successfully updated 6 biological constants
+2026-01-27 13:24:50 - weights.main_morphology - INFO - [main_morphology.py:38] - DatabaseManager initialized
+2026-01-27 13:24:50 - weights.main_morphology - INFO - [main_morphology.py:184] - Using device: cpu
+2026-01-27 13:24:50 - weights.main_morphology - INFO - [main_morphology.py:193] - UrbanMorphologyEngine initialized
+2026-01-27 13:24:50 - weights.main_weather - INFO - [main_weather.py:43] - Column 'weather_weights_json' added to DB
+2026-01-27 13:24:50 - weights.main_weather - INFO - [main_weather.py:34] - WeatherWeightEngine initialized
+2026-01-27 13:24:50 - weights.main_entropy - INFO - [main_entropy.py:42] - Column 'entropy_weights_json' added to DB
+2026-01-27 13:24:50 - weights.main_entropy - INFO - [main_entropy.py:33] - EntropyWeightEngine initialized
+2026-01-27 13:25:00 - weights.main_subjective - INFO - [main_subjective.py:33] - SubjectiveWeightManager initialized
+2026-01-27 13:25:00 - weights.main_subjective - INFO - [main_subjective.py:55] - Updating Biological Weights in Database...
+2026-01-27 13:25:00 - weights.main_subjective - INFO - [main_subjective.py:79] - Successfully updated 6 biological constants
+2026-01-27 13:25:02 - weights.main_morphology - INFO - [main_morphology.py:38] - DatabaseManager initialized
+2026-01-27 13:25:02 - weights.main_morphology - INFO - [main_morphology.py:184] - Using device: cpu
+2026-01-27 13:25:02 - weights.main_morphology - INFO - [main_morphology.py:193] - UrbanMorphologyEngine initialized
+2026-01-27 13:25:02 - weights.main_weather - INFO - [main_weather.py:34] - WeatherWeightEngine initialized
+2026-01-27 13:25:02 - weights.main_entropy - INFO - [main_entropy.py:33] - EntropyWeightEngine initialized
+2026-01-27 13:25:02 - __main__ - INFO - [main.py:21] - Successfully imported all weight modules
+2026-01-27 13:25:02 - __main__ - INFO - [main.py:465] - === SmartSynergy AQI System Starting (Production Mode) ===
+2026-01-27 13:25:02 - __main__ - INFO - [main.py:65] - SmartSynergyAQI initialized successfully
+2026-01-27 13:25:02 - __main__ - INFO - [main.py:471] - Fetching live data from database...
+2026-01-27 13:25:02 - __main__ - INFO - [main.py:387] - Fetched latest measurement: Station 'Wanshouxigong' at 2017-02-28 23:00:00
+2026-01-27 13:25:02 - __main__ - INFO - [main.py:474] - Raw Input (from Wanshouxigong): {'PM2.5': 13.0, 'PM10': 19.0, 'NO2': 38.0, 'SO2': 4.0, 'CO': 600.0, 'O3': 49.0}
+2026-01-27 13:25:02 - __main__ - INFO - [main.py:480] - Fetching weather data for station 'Wanshouxigong'...
+2026-01-27 13:25:02 - __main__ - INFO - [main.py:438] - Fetched weather data for station 'Wanshouxigong'
+2026-01-27 13:25:02 - __main__ - INFO - [main.py:483] - Weather Data: {'TEMP': 25.0, 'HUMIDITY': 65.0, 'WSPM': 2.0, 'RAIN': 0.0}
+2026-01-27 13:25:02 - __main__ - INFO - [main.py:489] - Fetching coordinates for station 'Wanshouxigong'...
+2026-01-27 13:25:02 - __main__ - INFO - [main.py:458] - Retrieved coordinates for station 'Wanshouxigong': (39.943, 116.285)
+2026-01-27 13:25:02 - __main__ - INFO - [main.py:492] - Station Coordinates: Lat=39.943, Lon=116.285
+2026-01-27 13:25:02 - __main__ - INFO - [main.py:498] - Running AQI calculation pipeline...
+2026-01-27 13:25:02 - __main__ - INFO - [main.py:321] - AQI calculation complete: 64 (Moderate)
+2026-01-27 13:25:02 - __main__ - INFO - [main.py:518] - AQI Calculation Successful - Result: 64
